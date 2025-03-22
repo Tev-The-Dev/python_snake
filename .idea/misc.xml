@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (Day_20)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (snake_clone)" project-jdk-type="Python SDK" />
 </project>
